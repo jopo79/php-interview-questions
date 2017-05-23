@@ -54,7 +54,7 @@
 4. What’s the difference between functions `include()` and `require()`?
 5. What are the `__construct()` and `__destruct()` methods in a PHP class?
 6. How can you determine the number of items in an array?
-7. What are two advanges of using namespaces?
+7. What are two advantages of using namespaces?
 8. What are the 3 scope levels available in PHP and how would you define them?
 9. What are getters and setters and why are they important?
 10. Explain the difference between `===` and `==`.
