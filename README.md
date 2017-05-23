@@ -62,7 +62,7 @@
 12. Looking at the code below, what will the function `getTemplateName()` return?
 
 	```php
-	class Tempalte
+	class Template
 	{
 	    protected $template_name;
 
@@ -71,7 +71,7 @@
 		$this->template_name = 'innovation_card';
 	    }
 
-	    public static function getTempalteName()
+	    public static function getTemplateName()
 	    {
 		return $this->template_name;
 	    }
