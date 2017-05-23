@@ -1,7 +1,7 @@
 # WordPress
 1. What are the disadvantages of using WP-Cron?
 2. What is the purpose of the function `wp_register_script()`?
-3. Which of the following choices is will pass existing variables to another template?
+3. Which of the following will make existing variables available inside the included template file?
 
 	```php
 	    a. include(locate_template('templates/partials/author.php'));
